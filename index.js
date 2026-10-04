@@ -1,3 +1,4 @@
+console.log("Aaron Hunter code started!");
 const {
   Client,
   GatewayIntentBits,
